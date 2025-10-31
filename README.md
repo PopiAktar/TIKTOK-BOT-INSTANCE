@@ -1,1 +1,1 @@
-# TIKTOK-BOT-INSTANCE
+# tiktok-bot-instance1
